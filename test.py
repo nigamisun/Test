@@ -15,7 +15,7 @@ class Person:
         print(f"Hello my name is {self.name} and im {self.age} years old")
 
 
-print(sum(24,26))
+print(sum(x,26))
 
 Hello_World("Azamat")
 
